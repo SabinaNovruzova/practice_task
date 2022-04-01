@@ -1,0 +1,28 @@
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\bin\Debug\netcoreapp3.1\practice.exe
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\bin\Debug\netcoreapp3.1\practice.deps.json
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.json
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.dev.json
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\bin\Debug\netcoreapp3.1\practice.dll
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\bin\Debug\netcoreapp3.1\practice.pdb
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.csproj.AssemblyReference.cache
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfoInputs.cache
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfo.cs
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.csproj.CoreCompileInputs.cache
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.dll
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.pdb
+C:\Users\tu7cldm19\Desktop\class work\practice\practice\obj\Debug\netcoreapp3.1\practice.genruntimeconfig.cache
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.csproj.AssemblyReference.cache
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfoInputs.cache
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.AssemblyInfo.cs
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.csproj.CoreCompileInputs.cache
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.dll
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.pdb
+C:\Users\tu7cldm19\Desktop\practice\practice\bin\Debug\netcoreapp3.1\practice.exe
+C:\Users\tu7cldm19\Desktop\practice\practice\bin\Debug\netcoreapp3.1\practice.deps.json
+C:\Users\tu7cldm19\Desktop\practice\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.json
+C:\Users\tu7cldm19\Desktop\practice\practice\bin\Debug\netcoreapp3.1\practice.runtimeconfig.dev.json
+C:\Users\tu7cldm19\Desktop\practice\practice\bin\Debug\netcoreapp3.1\practice.dll
+C:\Users\tu7cldm19\Desktop\practice\practice\bin\Debug\netcoreapp3.1\practice.pdb
+C:\Users\tu7cldm19\Desktop\practice\practice\obj\Debug\netcoreapp3.1\practice.genruntimeconfig.cache
